@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="Xija" APIVersion="9" Name="GroupDialog" Description="Basic Group Dialog w/o GroupDisplay">
+    <Script Name="GroupDialog.lua" />
+    <Form Name="GroupDialog.xml" />
+</Addon>
